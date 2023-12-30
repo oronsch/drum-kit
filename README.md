@@ -2,8 +2,6 @@
 
 A simple web-based drum kit application that allows users to play drum sounds by clicking on buttons or pressing corresponding keys on the keyboard.
 
-![Drum Kit Screenshot](screenshot.png)
-
 ## How to Use
 
 1. Clone or download this repository to your local machine.
