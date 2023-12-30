@@ -1,0 +1,54 @@
+body{
+   background-color: cornflowerblue;
+   text-align: center;
+   font-size: 3rem;
+}
+
+button{
+    font-size: 5rem;
+    margin: 10px; 
+    padding-left: 5rem;
+   width: 150px;
+   height: 150px;
+   border: 3px solid black;
+   border-radius: 10%;
+   background-size: 80px;
+   background-repeat: no-repeat;
+   background-color: white;
+}
+
+
+/* Background images for buttons */
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+
+  background-image: url("images/snare.png");
+  
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+/* set on hover click for buttons using code in inde.js file */
+.pressed {
+  opacity: 0.6;
+}
