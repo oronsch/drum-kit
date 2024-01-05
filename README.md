@@ -30,7 +30,7 @@ The buttons are styled using CSS and feature background images that represent th
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
